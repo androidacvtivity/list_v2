@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.transition:transition:1.5.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/439bab66d3dac93393b438e01b7d25c7/transformed/transition-1.5.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/36c5ec91343febb991bb38bfc7f58c4c/transformed/transition-1.5.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/439bab66d3dac93393b438e01b7d25c7/transformed/transition-1.5.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/439bab66d3dac93393b438e01b7d25c7/transformed/transition-1.5.0/res" />
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/439bab66d3dac93393b438e01b7d25c7/transformed/transition-1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/36c5ec91343febb991bb38bfc7f58c4c/transformed/transition-1.5.0/res" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/36c5ec91343febb991bb38bfc7f58c4c/transformed/transition-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/36c5ec91343febb991bb38bfc7f58c4c/transformed/transition-1.5.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

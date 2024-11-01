@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/16d59fc48e4eb0e009807f456066e0cc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/16d59fc48e4eb0e009807f456066e0cc/transformed/lifecycle-livedata-core-2.6.2/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/16d59fc48e4eb0e009807f456066e0cc/transformed/lifecycle-livedata-core-2.6.2/res" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/a8221c4a062845a1dc7c70c66d0e4a4e/transformed/lifecycle-livedata-core-2.6.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/a8221c4a062845a1dc7c70c66d0e4a4e/transformed/lifecycle-livedata-core-2.6.2/res" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/a8221c4a062845a1dc7c70c66d0e4a4e/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" external-system-id="GRADLE">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/e0bababc957bec00ce08bcd22fd8d065/transformed/exifinterface-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/1e51a9c6d1085d008c5b4c2483cce32b/transformed/exifinterface-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/e0bababc957bec00ce08bcd22fd8d065/transformed/exifinterface-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/e0bababc957bec00ce08bcd22fd8d065/transformed/exifinterface-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/1e51a9c6d1085d008c5b4c2483cce32b/transformed/exifinterface-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/1e51a9c6d1085d008c5b4c2483cce32b/transformed/exifinterface-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

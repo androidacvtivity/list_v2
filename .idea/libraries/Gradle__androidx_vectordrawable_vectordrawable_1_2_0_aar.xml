@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.vectordrawable:vectordrawable:1.2.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/5151d0a1c2222572b10115d70ef263ab/transformed/vectordrawable-1.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/5151d0a1c2222572b10115d70ef263ab/transformed/vectordrawable-1.2.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/5151d0a1c2222572b10115d70ef263ab/transformed/vectordrawable-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/8f5a104ae7f007e8f40b36f114efa065/transformed/vectordrawable-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/8f5a104ae7f007e8f40b36f114efa065/transformed/vectordrawable-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Video-Player-App/caches/8.9/transforms/8f5a104ae7f007e8f40b36f114efa065/transformed/vectordrawable-1.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
